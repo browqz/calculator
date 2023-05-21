@@ -24,17 +24,17 @@ if (t = '+'){
 }
 
 else  if (t = '-') {
-    float soustraction = a+b;
+    float soustraction = a - b;
   cout << "le resultat est de " << soustraction << endl;
 }
 
 else  if (t = '/'){
-    float division = a+b;
+    float division = a / b;
   cout << "le resultat est de " << division << endl;
 }
 
 else if (t = '*'){
-    float multiplication = a+b;
+    float multiplication = a * b;
   cout << "le resultat est de " << multiplication << endl;
 }
 
